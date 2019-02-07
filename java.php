@@ -3,11 +3,11 @@
 ?>
 <div class="container text-center">    
   <div class="row content">
-    <div class="col-sm-4 sidenav">
+    <div class="col-sm-3 sidenav">
     <iframe width="100%" height="50%" src="https://www.youtube.com/embed/Z0F7sJaOQtw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <p>Tutorial de Java</p>
     </div>
-    <div class="col-sm-6 text-left"> 
+    <div class="col-sm-7 text-left"> 
       <h1 id="h1Principal">Java</h1>
       <p>Sun Microsystems desarrolló, en 1991, el lenguaje de programación orientado a objetos que se conoce como Java.
          El objetivo era utilizarlo en un set-top box, un tipo de dispositivo que se encarga de la recepción y la descodificación
