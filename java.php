@@ -33,9 +33,11 @@
       <div>
         <p><img src="multimedia/java1.png"></p>
       </div>
+      <br>
       <div>
         <p><img src="multimedia/java3.png"></p>
       </div>
+      <br>
       <div>
         <p><img src="multimedia/java2.jpg"></p>
       </div>

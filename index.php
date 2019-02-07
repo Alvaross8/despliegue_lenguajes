@@ -1,11 +1,13 @@
 <?php
     include('includes/header.inc');
 ?>
-<div class="container text-center">    
+<div class="container text-center">   
   <div class="row content">
     <div class="col-sm-2 sidenav">
       <p><a href="https://www.w3schools.com/" target = "_blank">W3schools</a></p>
+      <br>
       <p><a href="https://stackoverflow.com/" target = "_blank">stackoverflow</a></p>
+      <br>
       <p><a href="https://www.youtube.com/user/latecladeescape/featured" target = "_blank">Tutoriales</a></p>
     </div>
     <div class="col-sm-8 text-left"> 
@@ -31,6 +33,7 @@
       <div>
         <p><img src="multimedia/imagen1.png"></p>
       </div>
+      <br>
       <div>
         <p><img src="multimedia/imagen2.jpg"></p>
       </div>

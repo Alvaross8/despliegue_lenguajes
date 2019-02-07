@@ -39,9 +39,11 @@
       <div>
         <p><img src="multimedia/php1.jpg"></p>
       </div>
+      <br>
       <div>
         <p><img src="multimedia/php2.png"></p>
       </div>
+      <br>
       <div>
         <p><img src="multimedia/php3.png"></p>
       </div>
