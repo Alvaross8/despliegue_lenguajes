@@ -1,4 +1,5 @@
 <?php
+    $location = basename(__FILE__);
     include('includes/header.inc');
 ?>
 <div class="container text-center">    
@@ -33,7 +34,7 @@
       <p>Dentro de lo que es el lenguaje de programación es muy importante subrayar que los profesionales que se dedican a desarrollar 
         este trabajan con un conjunto de elementos que son los que dan forma y sentido al mismo, los que permiten que aquellos funcionen y logren sus objetivos. 
         Entre los mismos se encontrarían, por ejemplo, las variables, los vectores, los bucles, los condicionantes, la sintaxis o la semántica estática.</p>
-    
+    <?php include("includes/comments.inc"); ?>
     </div>
     <div class="col-sm-2 sidenav">
       <div>

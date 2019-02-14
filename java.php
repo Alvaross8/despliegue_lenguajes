@@ -1,4 +1,5 @@
 <?php
+    $location = basename(__FILE__);
     include('includes/header.inc');
 ?>
 <div class="container text-center">    
@@ -28,6 +29,7 @@
         como teléfonos y pequeños electrodomésticos. Dentro del ámbito de Internet, Java permite desarrollar pequeñas aplicaciones
         (conocidas con el nombre de applets) que se incrustan en el código HTML de una página, para su directa ejecución desde un navegador; 
         cabe mencionar que es necesario contar con el plug-in adecuado para su funcionamiento, pero la instalación es liviana y sencilla.</p>
+    <?php include("includes/comments.inc"); ?>
     </div>
     <div class="col-sm-2 sidenav">
       <div>
